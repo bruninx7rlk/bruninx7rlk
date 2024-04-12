@@ -1,0 +1,38 @@
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title> Home </title>
+        <center><img width="100"src="PP.jpg"</center>
+        <br><!-- Quebra de linha -->
+       <a    href="trabalho.html" </a>     Conheça mais sobre  </a> | <a href="home.html" </a>     Home   </a> | <a href="pg3.html" </a>     Sobre nós </a> | <a href="pg4.html" </a> Seja um membro </a> 
+       <body>
+       <h1> Seja membro: </h1>
+       <p>Junte-se a nós para fazer a diferença! Torne-se membro do nosso canal/instituição e faça parte de uma comunidade comprometida com causas importantes. Tenha acesso a conteúdos exclusivos, participe de eventos especiais e ajude a impulsionar iniciativas significativas. Juntos, podemos alcançar grandes realizações. Inscreva-se agora e seja parte da mudança, você pode ter a oportunidade de ganhar prêmios em sorteios e além de ganhar benefícios que apenas membros tem. </p>
+      <h2>Cadastro:</h2>
+				<form>
+				<fieldset>
+					<legend><h3>Informações de cadastro</h3></legend>
+				<label for="nome">Nome:</label>
+				<input type="text" id="nome"><br>
+
+				<label for="idade">Data de Nascimento:</label>
+				<input type="date selection" id="idade"><br>
+
+				<label for="email">Email:</label>
+				<input type="email" id="email" required><br><br>
+
+				<label>Sexo:</label><br>
+				<input type="radio" name="sexo"value="m" checked>Masculino<br>
+				<input type="radio" name="sexo" value="f">Femenino<br><br>
+				<br><!-- Quebra de linha --> <br>
+				</form>
+       <h3> Aqui está um vídeo para você refletir: </h3>
+       <br><!-- Quebra de linha -->
+       <a href="https://youtu.be/G7Hqbeu5sHs?si=3CQKIbsNR3LG42pI" target="_blank"> Aproveite!! </a>
+       <h3> Agradecimentos: </h3>
+       <br><!-- Quebra de linha --><br>
+       <center><img width="280"src="aceno.jpg"</center>
+       <p>Queremos expressar nossa sincera gratidão pela oportunidade de abordar um tema tão importante como a saúde mental. Reconhecemos a importância de criar espaços de diálogo e conscientização sobre questões que afetam tantas pessoas em nossa comunidade. Agradecemos por destacar histórias inspiradoras, fornecer recursos valiosos e ajudar a reduzir o estigma em torno dos transtornos mentais. Esperamos que esta matéria ajude a promover uma cultura de apoio e compreensão em relação à saúde mental, capacitando indivíduos a buscar ajuda e cuidar de si mesmos e dos outros. Obrigado por contribuir para uma sociedade mais compassiva e inclusiva. </p>
+       </body>
+       </head>
+      </html>

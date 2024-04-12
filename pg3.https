@@ -1,0 +1,39 @@
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title> Home </title>
+        <center><img width="100"src="PP.jpg"</center>
+        <br><!-- Quebra de linha -->
+        <a    href="trabalho.html" </a>     Conheça mais sobre  </a> | <a href="home.jpg"</a> Home </a> | <a href="pg3.html" </a>     Sobre nós </a> | <a href="pg4.html" </a> Seja um membro </a> 
+        <p> <em> <h1>Sobre nós</h1> </p>
+
+<p> <em> <h1>Equipe de desenvolvedores</h1>
+<h2>Icaro Bruno</h2>
+
+<img width="250" src="buga.jpg" alt="">
+
+<h3>Bruno Henrique</h3>
+
+<img width="250"
+src="2.jpg" alt="">
+
+<meta charset="UTF-8">
+    <title>Sobre nós</title>
+</head>
+<body>
+    <h2>Informações Pessoais</h2>
+    <table border="1">
+   <tr>
+        <th>Nome</th>
+        <th>Turma</th>   
+        <th>Idade</th>
+        <th>Email</th>
+   </tr>
+   <tr>
+        <td>Bruno Henrique</td>
+        <td>206</td>
+        <td>16</td>
+        <td>bruninnxrlk@gmail.com</td>
+    </tr>   
+         
+        
